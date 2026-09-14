@@ -1,0 +1,6 @@
+{
+  "name": "Custom CRM",
+  "description": "Modern sales and operations CRM prototype with pipeline analytics, contacts directory, and interactive deals kanban.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
